@@ -1,0 +1,4 @@
+0,12.9,still
+14.3,25.5,standing
+25.5,37.5,walking
+37.5,48.0,jumping
