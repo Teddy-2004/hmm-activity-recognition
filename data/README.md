@@ -22,9 +22,10 @@ Accelerometer and gyroscope samples were aligned by nearest timestamp (≤ 5 ms 
 The first and last 1 s of each recording (the start/stop tap) are trimmed in the notebook, not in these files.
 
 ## Sessions
-| Files | Date | Notes |
+| Files | Date | Location |
 |---|---|---|
-| `*_01`-`*_04` | 2026-10-23 | Session A (filmed: `*_01` of each activity) |
-| `walking_05`-`_11` | 2026-10-25 morning | Session B |
-| `still/standing_05`-`_13`, `walking_12`-`_13` | 2026-10-25 afternoon | Session B |
-| `jumping_05`-`_13` | 2026-10-26 | Session B |
+| `*_01`-`*_04` (Session A, filmed: `*_01` of each activity) | 2026-10-23 | Outdoor, university campus, pavement, Ancona |
+| `walking_05`-`_13` (Session B) | 2026-10-25 | Outdoor, Globo Ancona, pavement, Ancona |
+| `still_05`-`_13`, `standing_05`-`_13` (Session B) | 2026-10-25 | Indoor corridor, ceramic floor, Ancona |
+| `jumping_05`-`_13` (Session B) | 2026-10-26 | Building courtyard, concrete, Ancona |
+| `test/test_01`, `test/test_02` | 2026-10-26 | Unseen test recordings (see test/README.txt) |
